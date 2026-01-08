@@ -494,4 +494,4 @@ async def yardim(interaction: discord.Interaction):
     await interaction.response.send_message(embed=embed)
 
 import os
-bot.run(os.getenv("DISCORD_TOKEN"))
+bot.run(os.getenv("MTQ1ODMzNjI0MTQyNTg0NjM2OQ.GOgyJv.G5yljHrWxIkAn9FpADqQf9BUQCDAXp88Ugf6no"))
